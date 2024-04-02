@@ -1,0 +1,3 @@
+[submodule "ExtendedFloatProject/Packages/amabie"]
+	path = ExtendedFloatProject/Packages/amabie
+	url = git@github.com:amabie-mamoru/extended-float.git
